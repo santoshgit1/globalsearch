@@ -1,0 +1,16 @@
+notebook
+scikit-learn
+transformers
+nltk
+textblob
+spacy
+dateparser
+setuptools
+wheel
+googletrans
+deep_translator
+googlesearch-python
+google-search
+flask
+mysql-connector-python
+Flask[async]
